@@ -19,4 +19,6 @@ The input contains a value of floating point (double precision), that is the var
 
 Present the message "A=" followed by the value of the variable, as in the example bellow, with four places after the decimal point. Use all double precision variables. Like all the problems, don't forget to print the end of line after the result, otherwise you will receive "Presentation Error".
 
-- **Exemple:**
+- **Example:**
+
+![Annotation 2020-07-22 105950](https://user-images.githubusercontent.com/68206376/88185608-8321ef80-cc0a-11ea-90f6-30d5a54cfb14.jpg)
