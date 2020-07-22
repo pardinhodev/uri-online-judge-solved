@@ -18,3 +18,5 @@ The input file contains 2 integer numbers.
 Print the message "PROD" and PROD according to the following example, with a blank space before and after the equal signal.
 
 - **Example:**
+
+![Annotation 2020-07-22 112135](https://user-images.githubusercontent.com/68206376/88187963-95515d00-cc0d-11ea-9be4-57a983088547.jpg)
