@@ -21,3 +21,5 @@ The input file contains 2 integer numbers and 1 value of floating point, represe
 Print the number and the employee's salary, according to the given example, with a blank space before and after the equal signal.
 
 - **Example:**
+
+![Annotation 2020-07-22 114555](https://user-images.githubusercontent.com/68206376/88190750-0a726180-cc11-11ea-8290-8e382d89638d.jpg)
