@@ -32,3 +32,4 @@ This is my first repository on github to learn the features of the platform as w
 - [x] Bhaskara's Formula
 - [x] Interval
 - [x] Snack
+- [x] Average 3
