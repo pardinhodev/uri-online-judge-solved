@@ -18,3 +18,5 @@ The input file contains 2 floating points' values with one digit after the decim
 Print the message "MEDIA"(average in Portuguese) and the student's average according to the following example, with 5 digits after the decimal point and with a blank space before and after the equal signal.
 
 - **Example:**
+
+![Annotation 2020-07-22 113134](https://user-images.githubusercontent.com/68206376/88188983-ec0b6680-cc0e-11ea-9cf4-a0c2926147b6.jpg)
