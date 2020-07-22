@@ -18,6 +18,6 @@ The input file will contain 2 integer numbers.
 Print the letter X (uppercase) with a blank space before and after the equal signal followed by the value of X, according to the following example.
 Obs.: don't forget the endline after all.
 
-- **Exemple:**
+- **Example:**
 
 ![Annotation 2020-07-21 225125](https://user-images.githubusercontent.com/68206376/88124997-baf64c00-cba4-11ea-9b19-8dedae22436a.jpg)
