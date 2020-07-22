@@ -19,6 +19,6 @@ The input contains four floating point numbers that represent the students' grad
 
 Print all the answers with one digit after the decimal point.
 
-- **Exemple:**
+- **Example:**
 
 ![Annotation 2020-07-22 000512](https://user-images.githubusercontent.com/68206376/88129731-33faa100-cbaf-11ea-9b1e-0e70dc71c1ee.jpg)
