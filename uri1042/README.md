@@ -18,3 +18,5 @@ The input contains three integer numbers.
 Present the output as requested above.
 
 - **Example:**
+
+![Annotation 2020-07-22 220328](https://user-images.githubusercontent.com/68206376/88243681-931bec80-cc67-11ea-8609-96eb79a652ab.jpg)
