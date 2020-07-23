@@ -18,3 +18,5 @@ The input has two integer numbers.
 Print the relative message to the input as stated above.
 
 - **Example:**
+
+![Annotation 2020-07-22 233351](https://user-images.githubusercontent.com/68206376/88247355-d2e8d100-cc73-11ea-81aa-e7ba01e3d0e9.jpg)
